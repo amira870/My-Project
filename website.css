@@ -1,0 +1,83 @@
+body{
+  background-color:rgb(126, 233, 233) 
+}
+.div1{
+    background-color:Crimson;
+   text-decoration:none;
+    width:1688px;
+    height:100px;
+    padding:20px 0 0 0 ;
+    margin:auto;
+    word-spacing:650px;
+    font-family:"Time New Roman";
+}
+.container,.container2,.container3{
+    font-size:25px;
+    text-decoration: none;  
+}
+.container:hover,.container2:hover,.container3:hover
+{
+    color:red;
+}
+.container{
+    margin:auto;
+}
+.container2{  
+  text-align:right;
+    margin:auto  
+}
+.container3{
+    margin:auto
+}
+div{
+    background-color:Azure
+}
+.home{
+    font-size:30px;
+    font-weight:bold;
+    font-style: italic;  
+}
+.image{ 
+    width:1688px;
+    height:700px
+}
+.series
+{
+    padding-top:30px;
+    padding-bottom:30px
+}
+.portfolio{
+    padding-top:30px;
+    padding-bottom:30px
+}
+.portfolio .div2{
+    overflow: hidden
+}
+.portfolio .div2 >div{
+    float:left; 
+    width:33.333333%;
+    margin:auto
+}
+input[type="text"]        
+{
+   width: 260px;
+   height: 30px;
+ }
+ input[type="submit"]
+ {
+   width: 100px;
+  height: 30px;
+  background:rgb(16, 16, 158);
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  
+ }
+/*img {  
+float:left;
+width:20% ;
+height:25%;
+margin-bottom:30px;
+word-spacing:20px;
+}
+*/
+ 
